@@ -140,3 +140,11 @@ body {
 #yintext{
     font-size: 250%;
 }
+
+#textwithshadow{
+    filter: drop-shadow(0 0 0.99rem red);
+}
+
+#cinna{
+    filter: drop-shadow(0 0 0.99rem white);
+}
