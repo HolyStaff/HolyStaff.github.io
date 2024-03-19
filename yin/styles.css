@@ -17,7 +17,10 @@ h1 {
     user-select: none;
 }
 
-#beep-1{
-    align-content: center;
-    margin-bottom: 50px;
+.centered {
+    position: fixed; /* or absolute */
+    top: 50%;
+    left: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
 }
