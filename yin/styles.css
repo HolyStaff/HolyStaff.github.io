@@ -24,3 +24,8 @@ h1 {
     /* bring your own prefixes */
     transform: translate(-50%, -50%);
 }
+
+#biggertext{
+    font-size: 325%;
+    color: white;
+}
