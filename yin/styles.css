@@ -16,3 +16,7 @@ h1 {
     -webkit-user-select: none;
     user-select: none;
 }
+
+#beep-1{
+    align-content: center;
+}
