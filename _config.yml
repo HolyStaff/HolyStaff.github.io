@@ -4,8 +4,8 @@ author: "Daniël Evers"
 
 theme: minima
 
-base_url: /gh-pages-minima-starter
-repository: jsanz/gh-pages-minima-starter
+base_url: /
+repository: holystaff/holystaff.github.io
 
 # Minima social links
 github_username: HolyStaff
@@ -22,6 +22,7 @@ header_pages:
   - _pages/frontpage.md
   - _pages/about.md
   - _pages/archive.md
+  - _pages/honoursportfolio.md
 
 include:
     - _pages

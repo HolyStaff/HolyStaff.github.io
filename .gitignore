@@ -5,8 +5,9 @@ _site/
 .vscode
 **/*.swp
 env
-/.idea/holystaff.github.io.iml
 /.idea/misc.xml
 /.idea/modules.xml
 /.idea/vcs.xml
 /.idea/workspace.xml
+/.idea/.name
+/.idea/Portfolio.iml
