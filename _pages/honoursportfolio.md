@@ -6,7 +6,7 @@ title: Honours Portfolio
 
 <h2>Project Summary</h2>
 <h1 style="max-width: 500px">What I did: </h1>
-    I developed a complete game concept including original character designs, 
+    I developed a complete game concept including original character designs, xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
     a detailed worldbuilding, and an engaging narrative. 
     The characters were crafted with distinct visual styles and personalities, 
     while the game world was built with its own history and aesthetic rules. 
