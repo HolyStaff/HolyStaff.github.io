@@ -23,10 +23,11 @@ You as the player get to uncover X’s past together to find out what happened a
 This all fitted perfectly with my goal to develop myself in the more creative side, and especially the storytelling which was my goal at the start of this lab.```
 # Sketches of the process:
 ```Here are sketches of the process, I hope to show you the finished designs during the presentation.```
-![](assets/imgs/Protagonist.png)
-![](assets/imgs/Antagonist.png)
-![](assets/imgs/ElfGoober.png)
-![](assets/imgs/KingOnThrone.png)
-![](assets/imgs/KingPotraitIg.png)
-![](assets/imgs/Kingdom.png)
-![](assets/imgs/Monsters.png)
+<br>
+<img src="assets/imgs/Protagonist.png" style="max-width:300px; max-height:300px;" />
+<img src="assets/imgs/Antagonist.png" style="max-width:300px; max-height:300px;" />
+<img src="assets/imgs/ElfGoober.png" style="max-width:300px; max-height:300px;" />
+<img src="assets/imgs/KingOnThrone.png" style="max-width:300px; max-height:300px;" />
+<img src="assets/imgs/KingPotraitIg.png" style="max-width:300px; max-height:300px;" />
+<img src="assets/imgs/Kingdom.png" style="max-width:300px; max-height:300px;" />
+<img src="assets/imgs/Monsters.png" style="max-width:300px; max-height:300px;" />
