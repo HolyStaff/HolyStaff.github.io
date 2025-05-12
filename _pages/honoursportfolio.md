@@ -22,7 +22,7 @@ You as the player get to uncover X’s past together to find out what happened a
 ```In this project I think the most present skill was the workflow, learning to do what in what order, how to make certain decisions like what colors to use, and how to design certain characters. I cannot say with certainty that it improved my creativity or creative skills for I find that difficult to measure, however I think the (coming back on the workflow) the way I handle creative tasks has improved. I have done creative assignments for school before in a sense of writing but not visual design, and while I think the way I approached it was satisfactory I know I would do it better having gained this experience.
 This all fitted perfectly with my goal to develop myself in the more creative side, and especially the storytelling which was my goal at the start of this lab.```
 # Sketches of the process:
-```Here are sketches of the process, I hope to show you the finished designs during the presentation.```
+```Here are some sketches of the process, I hope to show you the finished designs during the presentation.```
 <br>
 <img src="assets/imgs/Protagonist.png" style="max-width:300px; max-height:300px;" />
 <img src="assets/imgs/Antagonist.png" style="max-width:300px; max-height:300px;" />
