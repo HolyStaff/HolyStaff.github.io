@@ -6,11 +6,11 @@ title: Honours Portfolio
 
 # Project Summary</h2>
 ## What I did:
-    ```I developed a complete game concept including original character designs, xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-    a detailed worldbuilding, and an engaging narrative. 
-    The characters were crafted with distinct visual styles and personalities, 
-    while the game world was built with its own history and aesthetic rules. 
-    The storyline tied all elements together to create an immersive experience.```
+```I developed a complete game concept including original character designs, xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx```
+```a detailed worldbuilding, and an engaging narrative. 
+The characters were crafted with distinct visual styles and personalities, 
+while the game world was built with its own history and aesthetic rules. 
+The storyline tied all elements together to create an immersive experience.```
 
 ## Why I did it: 
     Game design sits at the intersection of my passions: storytelling, 
