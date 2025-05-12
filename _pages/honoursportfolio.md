@@ -13,7 +13,7 @@ title: Honours Portfolio
 #### Title: Royal Amnesia
 #### Story:
 ```You play as X, a young man who has been living in the jungle for the last 2 years and has no prior memories. One day he comes across people from the capital who are wandering in the jungle and the moment they recognize X they start attacking him. X manages to escape but sets off to a journey to the capital to uncover his past and face the consequences of who he was before.```
-You as the player get to uncover X’s past together to find out what happened and your choices will greatly impact the fate of the entire kingdom.
+<br>You as the player get to uncover X’s past together to find out what happened and your choices will greatly impact the fate of the entire kingdom.
 <br>Genres: ```Fantasy (monsters, mediaval times, kingdoms, magic), Branching-Narrative (Your choices as a player affect the story), Psychological Thriller (As you decide what is wrong and right and who is right as you uncover the past)```
 
 # Why you did it:
