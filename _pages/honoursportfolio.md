@@ -33,7 +33,6 @@ This all fitted perfectly with my goal to develop myself in the more creative si
 ```All in all, this project was a great way for me to really dive into the creative side of game design, which is something I’ve been wanting to explore more seriously. It gave me the chance to experiment with storytelling, world-building, and visual design in a way that felt purposeful and exciting. I learned a lot during/from this project, not just about design itself, but also about how I approach creative tasks and what kind of workflow works for me. Even though it was challenging at times, especially when ideas didn’t come easily, I’m glad I kept going. This experience confirmed that I really enjoy this type of work and want to keep growing in this direction. I'm excited to take everything I’ve learned here and apply it to future projects, and hopefully bring more of my own ideas to life through both design and storytelling.```
 
 # Sketches of the process:
-```Here are some sketches of the process.```
 <br>
 <img src="assets/imgs/Protagonist.png" style="max-width:300px; max-height:300px;" />
 <img src="assets/imgs/Antagonist.png" style="max-width:300px; max-height:300px;" />
